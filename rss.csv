@@ -1,0 +1,3 @@
+ID [id],Title [title],Description [description],Price [price],Condition [condition],Link [link],Availability [availability],Image link [image_link]
+123-uk,Toy Bear,A yellow teddy bear,12,new,http://www.example1.com,in_stock,http://www.example.com/image1.jpg
+1246,Blender,"12-speed, black blender",24.99,used,http://www.example2.com,in_stock,http://www.example.com/image2.jpg
