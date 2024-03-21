@@ -1,0 +1,52 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+        <title>Organic Grocery Store</title>
+        <link>http://www.organicgrocerystore.com</link>
+        <description>Discover fresh, organic produce and groceries at our store!</description>
+        
+        <item>
+            <g:id>849032</g:id>
+            <g:title>Organic Avocado</g:title>
+            <g:description>Indulge in the creamy goodness of our fresh, organic avocados.</g:description>
+            <g:link>http://www.organicgrocerystore.com/organicavocado</g:link>
+            <g:image_link>http://www.organicgrocerystore.com/images/organicavocado.jpg</g:image_link>
+            <g:brand>Nature's Bounty</g:brand>
+            <g:price>2.99 USD</g:price>
+            <g:availability>in stock</g:availability>
+        </item>
+        
+        <item>
+            <g:id>234761</g:id>
+            <g:title>Organic Strawberries</g:title>
+            <g:description>Enjoy the sweetness of nature with our pesticide-free, organic strawberries.</g:description>
+            <g:link>http://www.organicgrocerystore.com/organicstrawberries</g:link>
+            <g:image_link>http://www.organicgrocerystore.com/images/organicstrawberries.jpg</g:image_link>
+            <g:brand>Nature's Bounty</g:brand>
+            <g:price>4.99 USD</g:price>
+            <g:availability>in stock</g:availability>
+        </item>
+        
+        <item>
+            <g:id>507812</g:id>
+            <g:title>Organic Kale</g:title>
+            <g:description>Get your daily dose of nutrients with our fresh, organic kale.</g:description>
+            <g:link>http://www.organicgrocerystore.com/organickale</g:link>
+            <g:image_link>http://www.organicgrocerystore.com/images/organickale.jpg</g:image_link>
+            <g:brand>Nature's Bounty</g:brand>
+            <g:price>3.49 USD</g:price>
+            <g:availability>in stock</g:availability>
+        </item>
+        
+        <item>
+            <g:id>673951</g:id>
+            <g:title>Organic Whole Wheat Bread</g:title>
+            <g:description>Enjoy the wholesome goodness of our freshly baked organic whole wheat bread.</g:description>
+            <g:link>http://www.organicgrocerystore.com/organicwholewheatbread</g:link>
+            <g:image_link>http://www.organicgrocerystore.com/images/organicwholewheatbread.jpg</g:image_link>
+            <g:brand>Nature's Bounty</g:brand>
+            <g:price>5.99 USD</g:price>
+            <g:availability>in stock</g:availability>
+        </item>
+        
+    </channel>
+</rss>
