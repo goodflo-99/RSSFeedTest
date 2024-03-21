@@ -1,8 +1,0 @@
-Campaign,Campaign Daily Budget,Campaign Type,Languages,Bid Modifier,Merchant Identifier,Country of Sale,Campaign Priority,Tracking template,Ad Group,Max CPC,Location,Product Group,Product Group Type
-Example Campaign,100,Shopping,All,0,1234567,GB,Medium,,,,,,
-Example Campaign,,,,,,,,,,,United Kingdom,,
-Example Campaign,,,,,,,,,Example Ad Group,0.5,,,
-Example Campaign,,,,,,,,,Example Ad Group,,,,
-Example Campaign,,,,,,,,,Example Ad Group,,,* /,Subdivision
-Example Campaign,,,,,,,,,Example Ad Group,,,* / Item ID=*,Excluded
-Example Campaign,,,,,,,,http://clickserve.dartsearch.net/link/click?lid=92700008601816870&ds_s_kwgid=58700000784535705&ds_e_adid={creative}&ds_e_product_group_id={product_partition_id}&ds_e_product_id={product_id}&ds_e_product_merchant_id={merchant_id}&ds_e_product_country={product_country}&ds_e_product_language={product_language}&ds_e_product_channel={product_channel}&ds_e_product_store_id={store_code}&ds_e_ad_type={adtype}&ds_s_inventory_feed_id=97700000001004443&ds_url_v=2&ds_dest_url={unescapedlpurl},Example Ad Group,0.4,,* / Item ID='123',Biddable
