@@ -11,6 +11,7 @@
     <g:condition>used</g:condition>
     <g:availability>in stock</g:availability>
     <g:price>109.00 USD</g:price>
+    <g:sale_price>99.00 USD</g:sale_price>
   </entry>
   <entry>
     <g:id>6YO1dmHHR9OPSJl</g:id>
@@ -21,6 +22,7 @@
     <g:condition>used</g:condition>
     <g:availability>out of stock</g:availability>
     <g:price>989.00 USD</g:price>
+    <g:sale_price>899.00 USD</g:sale_price>
   </entry>
   <entry>
     <g:id>PHiKUjM9v5EflUl</g:id>
@@ -31,6 +33,7 @@
     <g:condition>used</g:condition>
     <g:availability>out of stock</g:availability>
     <g:price>467.00 USD</g:price>
+    <g:sale_price>400.00 USD</g:sale_price>
   </entry>
   <entry>
     <g:id>dKgr6abE86tl46N</g:id>
