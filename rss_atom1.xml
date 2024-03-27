@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:g="http://base.google.com/ns/1.0">
+  <title>Example - solutions Store</title>
+  <link rel="self" href="http://www.example.com"/>
+  <entry>
+    <g:id>xzKfwHXFfO8n96m</g:id>
+    <g:title>Gorgeous Fresh Towels</g:title>
+    <g:description>Thymbra copia vomito solitudo avaritia. Vulgaris deprimo antiquus doloribus accommodo. Consectetur aut eos officia deprimo somnus derelinquo.</g:description>
+    <g:link>https://specific-armor.net/</g:link>
+    <g:image_link>https://picsum.photos/seed/A9aubUN6RW/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>109.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>6YO1dmHHR9OPSJl</g:id>
+    <g:title>Unbranded Steel Car</g:title>
+    <g:description>Uterque baiulus beneficium. Solitudo arto alter totidem ambitus adipisci bellum solitudo ars cohors. Sol testimonium textilis temporibus quo arceo.</g:description>
+    <g:link>https://lazy-patio.com/</g:link>
+    <g:image_link>https://picsum.photos/seed/BeUZW/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>989.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>PHiKUjM9v5EflUl</g:id>
+    <g:title>Recycled Fresh Bike</g:title>
+    <g:description>Solutio surculus despecto demonstro vespillo cupressus audax. Thalassinus vado veniam arcesso tener. Suggero cribro deripio.</g:description>
+    <g:link>https://miserable-daddy.com</g:link>
+    <g:image_link>https://picsum.photos/seed/diXuuwrp/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>467.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>dKgr6abE86tl46N</g:id>
+    <g:title>Incredible Fresh Gloves</g:title>
+    <g:description>Patior adflicto decipio vado talus aeternus. Teres vinum autem substantia voveo suffoco vir. Nulla atrocitas angulus demoror custodia.</g:description>
+    <g:link>https://purple-functionality.net/</g:link>
+    <g:image_link>https://picsum.photos/seed/sNpAqE7V/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>930.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>JDIaLy2bYzhBnjA</g:id>
+    <g:title>Refined Wooden Bike</g:title>
+    <g:description>Aliquid apostolus approbo certe necessitatibus ulciscor celebrer tamen curo vindico. Civitas vivo verbum adsuesco. Cicuta bis crapula thymbra consectetur spero sustineo utpote ultra tristis.</g:description>
+    <g:link>https://playful-sunflower.biz/</g:link>
+    <g:image_link>https://picsum.photos/seed/nNkU1DZB/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>321.00 USD</g:price>
+  </entry>
+</feed>
