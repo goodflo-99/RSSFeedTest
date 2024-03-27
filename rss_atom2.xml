@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:g="http://base.google.com/ns/1.0">
+  <title>Example - deliverables Store</title>
+  <link rel="self" href="http://www.example.com"/>
+  <entry>
+    <g:id>2Nlycnt71FmY6J7</g:id>
+    <g:title>Handmade Rubber Soap</g:title>
+    <g:description>New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A &amp; J 2016</g:description>
+    <g:link>https://far-grip.biz/</g:link>
+    <g:image_link>https://picsum.photos/seed/RiTQ4wPZ4O/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>871.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>BHzruc2kmL9Wag4</g:id>
+    <g:title>Electronic Plastic Chicken</g:title>
+    <g:description>Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support</g:description>
+    <g:link>https://late-hazel.com/</g:link>
+    <g:image_link>https://picsum.photos/seed/KGNwI/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>972.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>Fw49YbCkL6QXpwt</g:id>
+    <g:title>Handmade Soft Soap</g:title>
+    <g:description>The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive</g:description>
+    <g:link>https://striped-diam.org/</g:link>
+    <g:image_link>https://picsum.photos/seed/8ShcwKha/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>30.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>Isk3y6cF1RutWXX</g:id>
+    <g:title>Handcrafted Rubber Keyboard</g:title>
+    <g:description>New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A &amp; J 2016</g:description>
+    <g:link>https://esteemed-nectarine.info/</g:link>
+    <g:image_link>https://picsum.photos/seed/nJlmh6BjmG/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>80.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>NeqzhDyxs2htgYs</g:id>
+    <g:title>Awesome Granite Bacon</g:title>
+    <g:description>The Football Is Good For Training And Recreational Purposes</g:description>
+    <g:link>https://favorable-encyclopedia.com/</g:link>
+    <g:image_link>https://picsum.photos/seed/xqxMxrA/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>30.00 USD</g:price>
+  </entry>
+</feed>
