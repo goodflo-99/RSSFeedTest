@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:g="http://base.google.com/ns/1.0">
+  <title>Example - interfaces Store</title>
+  <link rel="self" href="http://www.example.com"/>
+  <entry>
+    <g:id>D5FXLaeucKeJFvD</g:id>
+    <g:title>Rustic Fresh Ball</g:title>
+    <g:description>The Football Is Good For Training And Recreational Purposes</g:description>
+    <g:link>https://www.google.com/search?q=Rustic+Fresh+Ball</g:link>
+    <g:image_link>https://picsum.photos/seed/cjLOGImZ/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in of stock</g:availability>
+    <g:price>408.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>rTCUFQjQJkrV9Ld</g:id>
+    <g:title>Rustic Rubber Shirt</g:title>
+    <g:description>The Football Is Good For Training And Recreational Purposes</g:description>
+    <g:link>https://www.google.com/search?q=Rustic+Rubber+Shirt</g:link>
+    <g:image_link>https://picsum.photos/seed/nz7P9A/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>886.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>CoOskN84cUkbQ1M</g:id>
+    <g:title>Elegant Fresh Hat</g:title>
+    <g:description>The Football Is Good For Training And Recreational Purposes</g:description>
+    <g:link>https://www.google.com/search?q=Elegant+Fresh+Hat</g:link>
+    <g:image_link>https://picsum.photos/seed/0MMK3fEtO3/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>87.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>rXnBwjIKTziGaLm</g:id>
+    <g:title>Fantastic Plastic Towels</g:title>
+    <g:description>The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients</g:description>
+    <g:link>https://www.google.com/search?q=Fantastic+Plastic+Towels</g:link>
+    <g:image_link>https://picsum.photos/seed/lmTAP2j/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in of stock</g:availability>
+    <g:price>88.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>BjS0vs92OLK3opj</g:id>
+    <g:title>Elegant Concrete Ball</g:title>
+    <g:description>The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients</g:description>
+    <g:link>https://www.google.com/search?q=Elegant+Concrete+Ball</g:link>
+    <g:image_link>https://picsum.photos/seed/1wEs7BL0yM/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in of stock</g:availability>
+    <g:price>899.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>t9FmN0QpQm2bbsw</g:id>
+    <g:title>Sleek Metal Chair</g:title>
+    <g:description>Carbonite web goalkeeper gloves are ergonomically designed to give easy fit</g:description>
+    <g:link>https://www.google.com/search?q=Sleek+Metal+Chair</g:link>
+    <g:image_link>https://picsum.photos/seed/UVcY2oJ/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in of stock</g:availability>
+    <g:price>760.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>0Zg4noYlfjvaNqw</g:id>
+    <g:title>Refined Fresh Bike</g:title>
+    <g:description>The automobile layin consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive</g:description>
+    <g:link>https://www.google.com/search?q=Refined+Fresh+Bike</g:link>
+    <g:image_link>https://picsum.photos/seed/WapmlZ8MN/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in of stock</g:availability>
+    <g:price>641.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>FdguqItCJSex1Hw</g:id>
+    <g:title>Gorgeous Bronze Mouse</g:title>
+    <g:description>The Football Is Good For Training And Recreational Purposes</g:description>
+    <g:link>https://www.google.com/search?q=Gorgeous+Bronze+Mouse</g:link>
+    <g:image_link>https://picsum.photos/seed/p9cF0Mc0q/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in of stock</g:availability>
+    <g:price>733.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>NT8aEvnfbnpqPcu</g:id>
+    <g:title>Recycled Metal Soap</g:title>
+    <g:description>New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A &amp; J 2016</g:description>
+    <g:link>https://www.google.com/search?q=Recycled+Metal+Soap</g:link>
+    <g:image_link>https://picsum.photos/seed/NW12Z2ydn/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in of stock</g:availability>
+    <g:price>194.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>OZaRwc2Yf1ztq5F</g:id>
+    <g:title>Recycled Metal Car</g:title>
+    <g:description>New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A &amp; J 2016</g:description>
+    <g:link>https://www.google.com/search?q=Recycled+Metal+Car</g:link>
+    <g:image_link>https://picsum.photos/seed/GXnURPpEXy/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>in of stock</g:availability>
+    <g:price>37.00 USD</g:price>
+  </entry>
+</feed>
