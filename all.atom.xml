@@ -1,0 +1,2318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://gfuel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://gfuel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://gfuel.com/collections/all.atom"/>
+  <title>G FUEL</title>
+  <updated>2024-05-16T09:14:36-04:00</updated>
+  <author>
+    <name>G FUEL</name>
+  </author>
+  <entry>
+    <id>https://gfuel.com/products/6821837078603</id>
+    <published>2024-05-16T09:14:36-04:00</published>
+    <updated>2024-05-16T09:14:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/onward-package-protection"/>
+    <title>Onward VIP Protection+</title>
+    <s:type>Insurance</s:type>
+    <s:vendor>Onward</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/products/onward-package-protection-insurance-onward-gamer-drink-183702.png?v=1693613249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Onward<br>
+        <strong>Type: </strong>Insurance<br>
+        <strong>Price: </strong>
+            0.98 - 140.30
+            <a href="https://gfuel.com/products/onward-package-protection">(76 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>no index</s:tag>
+    <s:tag>no retargeting</s:tag>
+    <s:tag>no search</s:tag>
+    <s:tag>onward</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$0.98</title>
+      <s:price currency="USD">0.98</s:price>
+      <s:sku>ONWARDINS01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$1.15</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>ONWARDINS02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$1.35</title>
+      <s:price currency="USD">1.35</s:price>
+      <s:sku>ONWARDINS03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$1.55</title>
+      <s:price currency="USD">1.55</s:price>
+      <s:sku>ONWARDINS04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$1.75</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>ONWARDINS05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$1.95</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>ONWARDINS06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$2.15</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>ONWARDINS07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$2.35</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>ONWARDINS08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$2.55</title>
+      <s:price currency="USD">2.55</s:price>
+      <s:sku>ONWARDINS09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$2.75</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>ONWARDINS10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$2.95</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>ONWARDINS11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$3.15</title>
+      <s:price currency="USD">3.15</s:price>
+      <s:sku>ONWARDINS12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$3.35</title>
+      <s:price currency="USD">3.35</s:price>
+      <s:sku>ONWARDINS13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$3.55</title>
+      <s:price currency="USD">3.55</s:price>
+      <s:sku>ONWARDINS14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$3.75</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>ONWARDINS15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$3.95</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>ONWARDINS16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$4.15</title>
+      <s:price currency="USD">4.15</s:price>
+      <s:sku>ONWARDINS17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$4.35</title>
+      <s:price currency="USD">4.35</s:price>
+      <s:sku>ONWARDINS18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$4.55</title>
+      <s:price currency="USD">4.55</s:price>
+      <s:sku>ONWARDINS19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$4.75</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>ONWARDINS20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$4.95</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>ONWARDINS21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$5.15</title>
+      <s:price currency="USD">5.15</s:price>
+      <s:sku>ONWARDINS22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$5.35</title>
+      <s:price currency="USD">5.35</s:price>
+      <s:sku>ONWARDINS23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$5.55</title>
+      <s:price currency="USD">5.55</s:price>
+      <s:sku>ONWARDINS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$5.75</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>ONWARDINS25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$5.95</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>ONWARDINS26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$6.15</title>
+      <s:price currency="USD">6.15</s:price>
+      <s:sku>ONWARDINS27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$6.35</title>
+      <s:price currency="USD">6.35</s:price>
+      <s:sku>ONWARDINS28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$6.55</title>
+      <s:price currency="USD">6.55</s:price>
+      <s:sku>ONWARDINS29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$6.75</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ONWARDINS30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$6.95</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>ONWARDINS31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$7.15</title>
+      <s:price currency="USD">7.15</s:price>
+      <s:sku>ONWARDINS32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$7.35</title>
+      <s:price currency="USD">7.35</s:price>
+      <s:sku>ONWARDINS33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$7.55</title>
+      <s:price currency="USD">7.55</s:price>
+      <s:sku>ONWARDINS34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$7.75</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>ONWARDINS35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$7.95</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>ONWARDINS36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$8.15</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>ONWARDINS37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$8.35</title>
+      <s:price currency="USD">8.35</s:price>
+      <s:sku>ONWARDINS38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$8.55</title>
+      <s:price currency="USD">8.55</s:price>
+      <s:sku>ONWARDINS39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$8.75</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ONWARDINS40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$8.95</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>ONWARDINS41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$9.38</title>
+      <s:price currency="USD">9.38</s:price>
+      <s:sku>ONWARDINS42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$10.03</title>
+      <s:price currency="USD">10.03</s:price>
+      <s:sku>ONWARDINS43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$10.68</title>
+      <s:price currency="USD">10.68</s:price>
+      <s:sku>ONWARDINS44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$11.33</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>ONWARDINS45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$11.98</title>
+      <s:price currency="USD">11.98</s:price>
+      <s:sku>ONWARDINS46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$12.63</title>
+      <s:price currency="USD">12.63</s:price>
+      <s:sku>ONWARDINS47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$13.28</title>
+      <s:price currency="USD">13.28</s:price>
+      <s:sku>ONWARDINS48</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$13.93</title>
+      <s:price currency="USD">13.93</s:price>
+      <s:sku>ONWARDINS49</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$14.58</title>
+      <s:price currency="USD">14.58</s:price>
+      <s:sku>ONWARDINS50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$15.23</title>
+      <s:price currency="USD">15.23</s:price>
+      <s:sku>ONWARDINS51</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$15.88</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>ONWARDINS52</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$16.53</title>
+      <s:price currency="USD">16.53</s:price>
+      <s:sku>ONWARDINS53</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$17.18</title>
+      <s:price currency="USD">17.18</s:price>
+      <s:sku>ONWARDINS54</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$17.83</title>
+      <s:price currency="USD">17.83</s:price>
+      <s:sku>ONWARDINS55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$18.48</title>
+      <s:price currency="USD">18.48</s:price>
+      <s:sku>ONWARDINS56</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$19.13</title>
+      <s:price currency="USD">19.13</s:price>
+      <s:sku>ONWARDINS57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$19.78</title>
+      <s:price currency="USD">19.78</s:price>
+      <s:sku>ONWARDINS58</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$20.43</title>
+      <s:price currency="USD">20.43</s:price>
+      <s:sku>ONWARDINS59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$24.38</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>ONWARDINS60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$31.63</title>
+      <s:price currency="USD">31.63</s:price>
+      <s:sku>ONWARDINS61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$38.88</title>
+      <s:price currency="USD">38.88</s:price>
+      <s:sku>ONWARDINS62</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$46.13</title>
+      <s:price currency="USD">46.13</s:price>
+      <s:sku>ONWARDINS63</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$53.38</title>
+      <s:price currency="USD">53.38</s:price>
+      <s:sku>ONWARDINS64</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$60.63</title>
+      <s:price currency="USD">60.63</s:price>
+      <s:sku>ONWARDINS65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$67.88</title>
+      <s:price currency="USD">67.88</s:price>
+      <s:sku>ONWARDINS66</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$75.13</title>
+      <s:price currency="USD">75.13</s:price>
+      <s:sku>ONWARDINS67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$82.38</title>
+      <s:price currency="USD">82.38</s:price>
+      <s:sku>ONWARDINS68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$89.63</title>
+      <s:price currency="USD">89.63</s:price>
+      <s:sku>ONWARDINS69</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$96.88</title>
+      <s:price currency="USD">96.88</s:price>
+      <s:sku>ONWARDINS70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$104.13</title>
+      <s:price currency="USD">104.13</s:price>
+      <s:sku>ONWARDINS71</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$111.38</title>
+      <s:price currency="USD">111.38</s:price>
+      <s:sku>ONWARDINS72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$118.63</title>
+      <s:price currency="USD">118.63</s:price>
+      <s:sku>ONWARDINS73</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$125.88</title>
+      <s:price currency="USD">125.88</s:price>
+      <s:sku>ONWARDINS74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$133.13</title>
+      <s:price currency="USD">133.13</s:price>
+      <s:sku>ONWARDINS75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6821837078603</id>
+      <title>$140.30</title>
+      <s:price currency="USD">140.30</s:price>
+      <s:sku>ONWARDINS76</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/6916656332875</id>
+    <published>2024-05-14T14:45:04-04:00</published>
+    <updated>2024-05-14T14:45:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/year-of-the-dragon-shaker"/>
+    <title>Year of the Dragon Shaker</title>
+    <s:type>Shaker Cup</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/year-of-the-dragon-shaker-shaker-cup-g-fuel-gamer-drink-627086.png?v=1704232303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Shaker Cup<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="TextRun SCXW5245216 BCX0" lang="EN-US" data-contrast="auto" xml:lang="EN-US"><span class="NormalTextRun SCXW5245216 BCX0">Ring in</span><span class="NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW5245216 BCX0"> Lunar</span><span class="NormalTextRun CommentHighlightPipeRest SCXW5245216 BCX0"> New Year and welcome the Year of the Dragon with this eye-catching limited-edition </span><span class="NormalTextRun AdvancedProofingIssueV2Themed SCXW5245216 BCX0">24 oz</span><span class="NormalTextRun SCXW5245216 BCX0"> Shaker Cup! This crimson cup with gold detailing features a custom G FUEL logo celebrating the Dragon which, in traditional Chinese culture, symbolizes power, nobleness, honor, luck and success!</span></span></p>
+<ul>
+<li><span data-mce-fragment="1">Holds 24 oz (710 ml) of liquid</span></li>
+<li><span data-mce-fragment="1">Hand wash recommended</span></li>
+<li><span data-mce-fragment="1">BPA Free Non-toxic plastic</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>badge:ALMOST GONE</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>bottles</s:tag>
+    <s:tag>cups</s:tag>
+    <s:tag>low stock</s:tag>
+    <s:tag>max:11</s:tag>
+    <s:tag>shaker cups</s:tag>
+    <s:tag>shakercups</s:tag>
+    <s:tag>shakers</s:tag>
+    <s:tag>shakers cups</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6916656332875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SC00095</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/6844821831755</id>
+    <published>2024-05-14T14:26:12-04:00</published>
+    <updated>2024-05-14T14:26:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/blue-drawstring-bag"/>
+    <title>Blue Drawstring Bag</title>
+    <s:type>Swell Reward</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/blue-drawstring-bag-swell-reward-g-fuel-gamer-drink-605569.png?v=1715322678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Swell Reward<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you’re a minimalist who also has an eye for high-end fashion and G FUEL, this is THE bag for you! Introducing, the G FUEL Drawstring Bag! To use it, simply open it up, throw your random or prized possessions into it, pull on the strings to close it, and throw it over your shoulder like the cool guy in a movie! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>**Reward Exclusive</s:tag>
+    <s:tag>badge:ALMOST GONE</s:tag>
+    <s:tag>low stock</s:tag>
+    <s:tag>max:2</s:tag>
+    <s:tag>no index</s:tag>
+    <s:tag>no retargeting</s:tag>
+    <s:tag>no search</s:tag>
+    <s:tag>reward</s:tag>
+    <s:tag>rewards</s:tag>
+    <s:tag>social ladder reward</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6844821831755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>MISC00005</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7088238821451</id>
+    <published>2024-05-14T14:24:20-04:00</published>
+    <updated>2024-05-14T14:24:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/g-fuel-buddiez-razz-betty"/>
+    <title>G FUEL Buddiez - Razz Betty</title>
+    <s:type>Swell Reward</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/g-fuel-buddiez-razz-betty-swell-reward-g-fuel-gamer-drink-723979.png?v=1715322693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Swell Reward<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> </strong><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>**Reward Exclusive</s:tag>
+    <s:tag>badge:ALMOST GONE</s:tag>
+    <s:tag>low stock</s:tag>
+    <s:tag>max:2</s:tag>
+    <s:tag>no add</s:tag>
+    <s:tag>no index</s:tag>
+    <s:tag>no retargeting</s:tag>
+    <s:tag>no search</s:tag>
+    <s:tag>reward</s:tag>
+    <s:tag>rewards</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7088238821451</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>TY-00017</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7088237903947</id>
+    <published>2024-05-14T14:24:20-04:00</published>
+    <updated>2024-05-14T14:24:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/g-fuel-buddiez-limela"/>
+    <title>G FUEL Buddiez - Limela</title>
+    <s:type>Swell Reward</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/g-fuel-buddiez-limela-swell-reward-g-fuel-gamer-drink-893712.png?v=1715322674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Swell Reward<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>**Reward Exclusive</s:tag>
+    <s:tag>max:2</s:tag>
+    <s:tag>no add</s:tag>
+    <s:tag>no index</s:tag>
+    <s:tag>no retargeting</s:tag>
+    <s:tag>no search</s:tag>
+    <s:tag>reward</s:tag>
+    <s:tag>rewards</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7088237903947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>TY-00015</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7088236527691</id>
+    <published>2024-05-14T14:24:20-04:00</published>
+    <updated>2024-05-14T14:24:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/g-fuel-buddiez-waltermelon"/>
+    <title>G FUEL Buddiez - Walter Melon</title>
+    <s:type>Swell Reward</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/g-fuel-buddiez-walter-melon-swell-reward-g-fuel-gamer-drink-852446.png?v=1715322686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Swell Reward<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>**Reward Exclusive</s:tag>
+    <s:tag>max:2</s:tag>
+    <s:tag>no add</s:tag>
+    <s:tag>no index</s:tag>
+    <s:tag>no retargeting</s:tag>
+    <s:tag>no search</s:tag>
+    <s:tag>reward</s:tag>
+    <s:tag>rewards</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7088236527691</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>TY-00014</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7088234430539</id>
+    <published>2024-05-14T14:24:19-04:00</published>
+    <updated>2024-05-14T14:24:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/g-fuel-flavor-buddiez-crandrew"/>
+    <title>G FUEL Buddiez - Crandrew</title>
+    <s:type>Swell Reward</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/g-fuel-buddiez-crandrew-swell-reward-g-fuel-gamer-drink-910062.png?v=1715322682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Swell Reward<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:ALMOST GONE</s:tag>
+    <s:tag>low stock</s:tag>
+    <s:tag>max:2</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7088234430539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>TY-00013</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7088235479115</id>
+    <published>2024-05-14T14:23:55-04:00</published>
+    <updated>2024-05-14T14:23:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/g-fuel-buddiez-lemmy"/>
+    <title>G FUEL Buddiez - Lemmy</title>
+    <s:type>Swell Reward</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/g-fuel-buddiez-lemmy-swell-reward-g-fuel-gamer-drink-329971.png?v=1715322690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Swell Reward<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>**Reward Exclusive</s:tag>
+    <s:tag>badge:ALMOST GONE</s:tag>
+    <s:tag>low stock</s:tag>
+    <s:tag>max:2</s:tag>
+    <s:tag>no add</s:tag>
+    <s:tag>no index</s:tag>
+    <s:tag>no retargeting</s:tag>
+    <s:tag>no search</s:tag>
+    <s:tag>reward</s:tag>
+    <s:tag>rewards</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7088235479115</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>TY-00016</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/6919531659339</id>
+    <published>2024-05-13T15:00:00-04:00</published>
+    <updated>2024-05-13T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/goth-girlfriend"/>
+    <title>Goth GF</title>
+    <s:type>Tub</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/goth-gf-tub-g-fuel-gamer-drink-999082.png?v=1714691428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Tub<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-contrast="auto" lang="EN-US" class="TextRun SCXW194598179 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW194598179 BCX0">🐦</span></span><span data-contrast="auto" lang="EN-US" class="TextRun SCXW194598179 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW194598179 BCX0">‍</span></span><span data-contrast="auto" lang="EN-US" class="TextRun SCXW194598179 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW194598179 BCX0">⬛</span></span><span data-contrast="auto" lang="EN-US" class="TextRun SCXW194598179 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW194598179 BCX0">Bask in the decadent darkness and embrace abyssal eternity alongside your new goth girlfriend with G FUEL Goth G</span><span class="NormalTextRun SCXW194598179 BCX0">F Energy Focus</span><span class="NormalTextRun SCXW194598179 BCX0">! </span><span class="NormalTextRun SCXW194598179 BCX0">This zero-sugar blend of juicy blackberries and crisp apples is easy to fall in love with, helping to provide you with the energy and focus you need to own the night.</span><span class="NormalTextRun SCXW194598179 BCX0"> </span><span class="NormalTextRun SCXW194598179 BCX0">With this flavor in your shaker, the </span><span class="NormalTextRun SCXW194598179 BCX0">G in G FUEL stands for GOTH! </span></span><span data-contrast="auto" lang="EN-US" class="TextRun SCXW194598179 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW194598179 BCX0">🖤</span></span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>anime</s:tag>
+    <s:tag>apple</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>blackberry</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>fruity</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6919531659339</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>GTB-BA1-V2</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7036978954315</id>
+    <published>2024-05-10T12:00:00-04:00</published>
+    <updated>2024-05-10T12:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/hype-sauce-reanimated"/>
+    <title>HYPE SAUCE Reanimated</title>
+    <s:type>Tub</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/hype-sauce-reanimated-tub-g-fuel-gamer-drink-338908.png?v=1714071552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Tub<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-contrast="auto" lang="EN-US" class="TextRun SCXW54763961 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW54763961 BCX0">Power</span><span class="NormalTextRun SCXW54763961 BCX0"> your day the anime way with G FUEL’s fan-favorite Raspberry Lemonade Hype Sauce flavor, now with an anime-inspired Tub! On the all-new artwork, the beautiful </span><span class="NormalTextRun SpellingErrorV2Themed SCXW54763961 BCX0">Netsui</span><span class="NormalTextRun SCXW54763961 BCX0"> beckons you to join her on her next mystical</span><span class="NormalTextRun SCXW54763961 BCX0"> quest</span><span class="NormalTextRun SCXW54763961 BCX0">, which will no doubt require the energy and focus only G FUEL can help you </span><span class="NormalTextRun SCXW54763961 BCX0">attain</span><span class="NormalTextRun SCXW54763961 BCX0">!</span></span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>anime</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>fruity</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7036978954315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>GTB-HS1-V4</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/6919531462731</id>
+    <published>2024-05-06T15:00:01-04:00</published>
+    <updated>2024-05-06T15:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/goth-gf-collectors-box"/>
+    <title>Goth GF Collector&apos;s Box</title>
+    <s:type>Tub (Collectors Box)</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/goth-gf-collectors-box-tub-collectors-box-g-fuel-gamer-drink-525820.png?v=1714691439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Tub (Collectors Box)<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With her, the G in G FUEL stands for GOTH! 🐦‍⬛ </p>
+<p>Bask in the decadent darkness and embrace abyssal eternity alongside your new goth girlfriend with the G FUEL Goth GF Collector’s Box! This zero-sugar blend of juicy blackberries and crisp apples is easy to fall in love with, helping to provide you with the energy and focus you need to own the night. Each Collector’s Box includes a 40 Serving Energy Tub, Surprise Goth GF Sticker, and 24 oz Goth GF Shaker Cup, which looks even cooler with black lipstick on the rim! 🖤<br><br><em>*With every Collector's Box purchase, you will get 1 of 4 Goth GF stickers! </em></p>
+<h5>Includes:</h5>
+<ul>
+<li>40 Serving Goth GF Energy Tub</li>
+<li>24 oz Goth GF Shaker Cup</li>
+<li>Surprise Goth GF Sticker!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>anime</s:tag>
+    <s:tag>apple</s:tag>
+    <s:tag>blackberry</s:tag>
+    <s:tag>bundle</s:tag>
+    <s:tag>collectors box</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>fruity</s:tag>
+    <s:tag>low stock</s:tag>
+    <s:tag>shaker cup</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>Tub Bundle</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6919531462731</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>CB-BA1-V2</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7036979511371</id>
+    <published>2024-05-06T12:00:00-04:00</published>
+    <updated>2024-05-06T12:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/miami-nights-reanimated"/>
+    <title>Miami Nights Reanimated</title>
+    <s:type>Tub</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/miami-nights-reanimated-tub-g-fuel-gamer-drink-762505.png?v=1714691445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Tub<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-contrast="auto" lang="EN-US" class="TextRun SCXW257702478 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW257702478 BCX0">Things heat up when the sun goes down with G FUEL Miami Nights Reanimated! The fun-loving </span><span class="NormalTextRun SCXW257702478 BCX0">Yoru</span><span class="NormalTextRun SCXW257702478 BCX0"> invites you out for the night of your life on this all-new anime-inspired artwork wrapped around the strawberry, pineapple, and coconut G FUEL flavor you know and love! Zero sugar, zero crash, zero regrets!</span></span><br></p>
+<p><span data-contrast="auto" lang="EN-US" class="TextRun SCXW257702478 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW257702478 BCX0">You also have a 1-in-3 chance to receive a rare alternate art variant when you purchase Miami Nights Reanimated!</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>anime</s:tag>
+    <s:tag>badge:1-IN-3 CHANCE!</s:tag>
+    <s:tag>coconut</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>fruity</s:tag>
+    <s:tag>pina colada</s:tag>
+    <s:tag>pineapple</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7036979511371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>GTB-MN1-V2</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7058468962379</id>
+    <published>2024-05-05T00:00:01-04:00</published>
+    <updated>2024-05-05T00:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/fiesta-frenzy-shirt"/>
+    <title>Fiesta Frenzy T-Shirt</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/fiesta-frenzy-t-shirt-shirt-berry-s-printful-gamer-drink-723293.png?v=1713816084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            24.99 - 30.99
+            <a href="https://gfuel.com/products/fiesta-frenzy-shirt">(29 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing our vibrant tribute to Cinco de Mayo: the Fiesta Frenzy T-shirt! Embrace the spirit of celebration and honor the rich cultural heritage of Mexico with this stylish garment.<br><br>Crafted with premium materials, the Fiesta Frenzy T-shirt ensures both comfort and durability, making it the perfect choice for commemorating this historic day. Its vivid design captures the essence of Cinco de Mayo, featuring vibrant colors that pay homage to Mexican culture.<br><br>Join us in celebrating the resilience and triumph of the Mexican people with the Fiesta Frenzy T-shirt—a timeless symbol of unity and cultural pride. Viva México!<br><br><em>*This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!</em></p>
+<p><strong class="size-guide-title">Size guide</strong></p>
+<div class="table-responsive dynamic" data-unit-system="imperial">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>LENGTH (inches)</strong></td>
+<td><strong>WIDTH (inches)</strong></td>
+<td><strong>CHEST (inches)</strong></td>
+</tr>
+<tr>
+<td><strong>XS</strong></td>
+<td>27</td>
+<td>16 ½</td>
+<td>31-34</td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>28</td>
+<td>18</td>
+<td>34-37</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>29</td>
+<td>20</td>
+<td>38-41</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>30</td>
+<td>22</td>
+<td>42-45</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>31</td>
+<td>24</td>
+<td>46-49</td>
+</tr>
+<tr>
+<td><strong>2XL</strong></td>
+<td>32</td>
+<td>26</td>
+<td>50-53</td>
+</tr>
+<tr>
+<td><strong>3XL</strong></td>
+<td>33</td>
+<td>28</td>
+<td>54-57</td>
+</tr>
+<tr>
+<td><strong>4XL</strong></td>
+<td>34</td>
+<td>30</td>
+<td>58-61</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="table-responsive dynamic" data-unit-system="metric">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>LENGTH (cm)</strong></td>
+<td><strong>WIDTH (cm)</strong></td>
+<td><strong>CHEST (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>XS</strong></td>
+<td>68.6</td>
+<td>42</td>
+<td>78.7-86.4</td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>71.1</td>
+<td>45.7</td>
+<td>86.4-94</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73.7</td>
+<td>50.8</td>
+<td>96.5-104.1</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>76.2</td>
+<td>55.9</td>
+<td>106.7-114.3</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>78.7</td>
+<td>61</td>
+<td>116.8-124.5</td>
+</tr>
+<tr>
+<td><strong>2XL</strong></td>
+<td>81.3</td>
+<td>66</td>
+<td>127-134.6</td>
+</tr>
+<tr>
+<td><strong>3XL</strong></td>
+<td>83.8</td>
+<td>71.1</td>
+<td>137.2-144.8</td>
+</tr>
+<tr>
+<td><strong>4XL</strong></td>
+<td>86.4</td>
+<td>76.2</td>
+<td>147.3-155</td>
+</tr>
+</tbody>
+</table>
+<br>
+<ul>
+<li>100% combed and ring-spun cotton</li>
+<li>Fabric weight: 4.2 oz./yd.² (142 g/m²)</li>
+<li>Pre-shrunk fabric</li>
+<li>Side-seamed construction</li>
+<li>Shoulder-to-shoulder taping</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>cinco de mayo</s:tag>
+    <s:tag>disable stock notification</s:tag>
+    <s:tag>merch</s:tag>
+    <s:tag>printful</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Berry / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4041</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Berry / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4042</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Berry / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4043</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Berry / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4044</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Berry / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>6770768_4045</s:sku>
+      <s:grams>201</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Berry / 3XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>6770768_5298</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Berry / 4XL</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>6770768_5313</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Aqua / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4021</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Aqua / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4022</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Aqua / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4023</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Aqua / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4024</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Aqua / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>6770768_4025</s:sku>
+      <s:grams>201</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Aqua / 3XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>6770768_5296</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Aqua / 4XL</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>6770768_5311</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Kelly / XS</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_9541</s:sku>
+      <s:grams>102</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Kelly / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4086</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Kelly / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4087</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Kelly / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4088</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Kelly / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4089</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Kelly / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>6770768_4090</s:sku>
+      <s:grams>201</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Kelly / 3XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>6770768_5300</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Kelly / 4XL</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>6770768_5315</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Gold / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4081</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Gold / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4082</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Gold / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4083</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Gold / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6770768_4084</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Gold / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>6770768_4085</s:sku>
+      <s:grams>201</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Gold / 3XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>6770768_5299</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058468962379</id>
+      <title>Gold / 4XL</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>6770768_5314</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7058472927307</id>
+    <published>2024-05-05T00:00:00-04:00</published>
+    <updated>2024-05-05T00:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/fiesta-frenzy-mug"/>
+    <title>Fiesta Frenzy Mug</title>
+    <s:type>Glass</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/fiesta-frenzy-mug-glass-printful-gamer-drink-569830.png?v=1714672087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br>
+        <strong>Type: </strong>Glass<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your morning routine with our Fiesta Frenzy 15oz mug—a vibrant addition to your coffee or tea ritual!<br><br>Crafted from high-quality ceramic, these mugs feature a stunning design that celebrates the spirit of Cinco de Mayo. But that's not all! With a colorful rim, handle, and interior, each sip becomes a celebration of Mexican culture, adding a dash of fiesta to your mug rack. Whether you're savoring your favorite brew or indulging in a cozy evening beverage, our Fiesta Frenzy mug is sure to bring joy and vibrancy to every moment.<br><br><em>*This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!</em></p>
+<ul>
+<li>Ceramic</li>
+<li>15 oz mug dimensions: 4.69″ (11.9 cm) in height, 3.35″ (8.5 cm) in diameter</li>
+<li>Colored rim, inside, and handle</li>
+<li>Dishwasher and microwave safe</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>cinco de mayo</s:tag>
+    <s:tag>disable stock notification</s:tag>
+    <s:tag>merch</s:tag>
+    <s:tag>printful</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7058472927307</id>
+      <title>Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>3409290_17200</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058472927307</id>
+      <title>Green</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>3409290_17360</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058472927307</id>
+      <title>Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>3409290_17197</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7058442158155</id>
+    <published>2024-05-04T00:00:03-04:00</published>
+    <updated>2024-05-04T00:00:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/may-the-fourth-hat"/>
+    <title>May the Fourth Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/may-the-fourth-trucker-hat-hat-default-title-printful-gamer-drink-304746.png?v=1713816009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Get ready to make a stellar statement this May 4th with our "May the Fourth" trucker hat! Crafted for the trendsetters, this foam trucker hat is the epitome of style and comfort. Made from high-quality polyester and foam, this head-turning accessory exudes premium quality. Its adjustable snap ensures a perfect fit, while the mesh back delivers exceptional breathability, keeping you cool even during the hottest Tatooine summers.<br><br>This hat is designed to complement any outfit, day or night. Whether you're heading to a cosplay event or simply adding a dash charm to your everyday look, the "May the Fourth" trucker hat is your ultimate accessory for celebrating the galaxy far, far away.<br><br><em>*This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!<br><br></em>
+<p><strong class="size-guide-title">Size guide</strong></p>
+<div class="table-responsive dynamic" data-unit-system="imperial">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>A (inches)</strong></td>
+<td><strong>B (inches)</strong></td>
+<td><strong>C (inches)</strong></td>
+<td><strong>D (inches)</strong></td>
+</tr>
+<tr>
+<td><strong>One size</strong></td>
+<td>24 - 26</td>
+<td>6</td>
+<td>3</td>
+<td>8 ⅝</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="table-responsive dynamic" data-unit-system="metric"></div>
+<div class="table-responsive dynamic" data-unit-system="metric">
+<ul>
+<li>100% polyester front</li>
+<li>100% polyester mesh back</li>
+<li>Thicker and heavier fabric, laminated with high-density, non-toxic foam</li>
+<li>Structured, 5-panel cap, high-profile</li>
+<li>8 rows of stitching on a pre-curved visor</li>
+<li>Seamless foam front panel with lining</li>
+<li>Matching fabric undervisor</li>
+<li>Matching color braid and sweatband</li>
+<li>Adjustable plastic snap</li>
+<li>One size fits most</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>4th</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>disable stock notification</s:tag>
+    <s:tag>jedi</s:tag>
+    <s:tag>may the fourth</s:tag>
+    <s:tag>merch</s:tag>
+    <s:tag>printful</s:tag>
+    <s:tag>sith</s:tag>
+    <s:tag>skywalker</s:tag>
+    <s:tag>star wars</s:tag>
+    <s:tag>the force</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7058442158155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2061408_15904</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7058430263371</id>
+    <published>2024-05-04T00:00:02-04:00</published>
+    <updated>2024-05-04T00:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/may-the-fourth-shirt"/>
+    <title>May the Fourth T-Shirt</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/may-the-fourth-t-shirt-shirt-s-printful-gamer-drink-581450.png?v=1713815981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            29.99 - 34.99
+            <a href="https://gfuel.com/products/may-the-fourth-shirt">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the ultimate attire: the "May the Fourth" T-shirt, specially crafted to elevate your style on the galaxy's most celebrated day! Whether you're gearing up for an epic movie marathon or attending a cosplay event, the "May the Fourth" T-shirt has got you covered. Its regular T-shirt style effortlessly complements any ensemble, ensuring you look and feel your best as you join fellow fans in commemorating the beloved saga. Embrace the force with style and comfort this May 4th—grab your "May the Fourth" T-shirt and let the galaxy know where your allegiance lies!<br><br><em>*This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!<br><br></em></p>
+<p><strong class="size-guide-title">Size guide</strong></p>
+<div class="table-responsive dynamic" data-unit-system="imperial">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>WIDTH (inches)</strong></td>
+<td><strong>LENGTH (inches)</strong></td>
+<td><strong>SLEEVE CENTER BACK (inches)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>18 ¼</td>
+<td>26 ⅝</td>
+<td>16 ¼</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>20 ¼</td>
+<td>28</td>
+<td>17 ¾</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>22</td>
+<td>29 ⅜</td>
+<td>19</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>24</td>
+<td>30 ¾</td>
+<td>20 ½</td>
+</tr>
+<tr>
+<td><strong>2XL</strong></td>
+<td>26</td>
+<td>31 ⅝</td>
+<td>21 ¾</td>
+</tr>
+<tr>
+<td><strong>3XL</strong></td>
+<td>27 ¾</td>
+<td>32 ½</td>
+<td>23 ¼</td>
+</tr>
+<tr>
+<td><strong>4XL</strong></td>
+<td>29 ¾</td>
+<td>33 ½</td>
+<td>24 ⅝</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="table-responsive dynamic" data-unit-system="metric">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>WIDTH (cm)</strong></td>
+<td><strong>LENGTH (cm)</strong></td>
+<td><strong>SLEEVE CENTER BACK (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>46.4</td>
+<td>67.6</td>
+<td>41.3</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>51.4</td>
+<td>71.1</td>
+<td>45</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>55.9</td>
+<td>74.6</td>
+<td>48.3</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>61</td>
+<td>78.1</td>
+<td>52</td>
+</tr>
+<tr>
+<td><strong>2XL</strong></td>
+<td>66</td>
+<td>80.3</td>
+<td>55.3</td>
+</tr>
+<tr>
+<td><strong>3XL</strong></td>
+<td>70.5</td>
+<td>82.6</td>
+<td>59</td>
+</tr>
+<tr>
+<td><strong>4XL</strong></td>
+<td>75.6</td>
+<td>85</td>
+<td>62.6</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<ul>
+<li>100% ring-spun cotton</li>
+<li>Fabric weight: 6.1 oz/yd² (206.8 g/m²)</li>
+<li>Garment-dyed</li>
+<li>Relaxed fit</li>
+<li>7/8″ double-needle topstitched collar</li>
+<li>Twill-taped neck and shoulders for extra durability</li>
+<li>Double-needle armhole, sleeve, and bottom hems</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>4th</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>disable stock notification</s:tag>
+    <s:tag>jedi</s:tag>
+    <s:tag>may the fourth</s:tag>
+    <s:tag>merch</s:tag>
+    <s:tag>printful</s:tag>
+    <s:tag>sith</s:tag>
+    <s:tag>skywalker</s:tag>
+    <s:tag>star wars</s:tag>
+    <s:tag>the force</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7058430263371</id>
+      <title>S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4201353_15114</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058430263371</id>
+      <title>M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4201353_15115</s:sku>
+      <s:grams>179</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058430263371</id>
+      <title>L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4201353_15116</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058430263371</id>
+      <title>XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4201353_15117</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058430263371</id>
+      <title>2XL</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>4201353_15118</s:sku>
+      <s:grams>269</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058430263371</id>
+      <title>3XL</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4201353_16326</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/7058430263371</id>
+      <title>4XL</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>4201353_17500</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7058460115019</id>
+    <published>2024-05-04T00:00:01-04:00</published>
+    <updated>2024-05-04T00:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/may-the-fourth-gaming-mousepad"/>
+    <title>May the Fourth Gaming Mousepad</title>
+    <s:type>Mousepad</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/may-the-fourth-gaming-mousepad-mousepad-default-title-printful-gamer-drink-328808.png?v=1713816124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br>
+        <strong>Type: </strong>Mousepad<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing the "May the Fourth" gaming mousepad—your essential companion for epic May 4th gaming sessions!<br><br>Immerse yourself in the galaxy far, far away with this stunning mousepad featuring the iconic G FUEL logo set against a mesmerizing galaxy backdrop. Crafted for fans who demand both style and functionality, the "May the Fourth" mousepad ensures precision and comfort during intense gaming marathons. With its smooth surface and ample space, this mousepad provides the perfect platform for your gaming mouse to glide effortlessly, enhancing your gameplay experience. Whether you're battling Sith Lords or exploring distant planets, the "May the Fourth" mousepad is your key to victory.<br><br>Join the ranks of Jedi and Sith alike as you harness the power of the force with the "May the Fourth" gaming mousepad. Elevate your gaming setup and celebrate in style!<br><br><em>*This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!<br data-mce-fragment="1"></em>
+<ul>
+<li>100% polyester</li>
+<li>Rubber non-slip base</li>
+<li>Sizes: 36″ × 18″ (91.4 cm × 45.7 cm)</li>
+<li>Vibrant prints, long lasting</li>
+<li>High-quality edge stitching that doesn’t peel</li>
+<li>Non-slip surface</li>
+<li>Rounded edges</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>4th</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>disable stock notification</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>jedi</s:tag>
+    <s:tag>may the fourth</s:tag>
+    <s:tag>merch</s:tag>
+    <s:tag>printful</s:tag>
+    <s:tag>sith</s:tag>
+    <s:tag>skywalker</s:tag>
+    <s:tag>star wars</s:tag>
+    <s:tag>the force</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7058460115019</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>2935361_14942</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7058448646219</id>
+    <published>2024-05-04T00:00:00-04:00</published>
+    <updated>2024-05-04T00:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/may-the-fourth-flag"/>
+    <title>May the Fourth Flag</title>
+    <s:type>Flag</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/may-the-fourth-flag-flag-default-title-printful-gamer-drink-538270.png?v=1713816105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br>
+        <strong>Type: </strong>Flag<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the "May the Fourth" flag—a must-have for May 4th celebrations! Featuring the iconic G FUEL logo against a captivating galaxy backdrop, this flag is crafted for fans who want to showcase their allegiance in style. Perfect for parties or displaying your fandom, it's the ultimate symbol of galactic unity. May the force be with you as you proudly fly the "May the Fourth" flag this May 4th!<br><br><em>*This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!</em></p>
+<p><strong class="size-guide-title">Size guide</strong></p>
+<div class="table-responsive dynamic" data-unit-system="imperial">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>LENGTH (inches)</strong></td>
+<td><strong>WIDTH (inches)</strong></td>
+</tr>
+<tr>
+<td><strong>One size</strong></td>
+<td>34 ½</td>
+<td>56</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="table-responsive dynamic" data-unit-system="metric">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>LENGTH (cm)</strong></td>
+<td><strong>WIDTH (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>One size</strong></td>
+<td>87.6</td>
+<td>142.2</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<ul>
+<li>100% polyester</li>
+<li>Knitted fabric</li>
+<li>Fabric weight: 4.42 oz/yd² (150 g/m²)</li>
+<li>Print on one side</li>
+<li>Blank reverse side</li>
+<li>2 iron grommets</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>4th</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>disable stock notification</s:tag>
+    <s:tag>flag</s:tag>
+    <s:tag>jedi</s:tag>
+    <s:tag>may the fourth</s:tag>
+    <s:tag>merch</s:tag>
+    <s:tag>printful</s:tag>
+    <s:tag>sith</s:tag>
+    <s:tag>skywalker</s:tag>
+    <s:tag>star wars</s:tag>
+    <s:tag>the force</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7058448646219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>8571737_12584</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/6830265237579</id>
+    <published>2024-05-03T15:00:01-04:00</published>
+    <updated>2024-05-03T15:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/mha-shaker-cup"/>
+    <title>My Hero Academia Shaker</title>
+    <s:type>Shaker Cup</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/my-hero-academia-quirk-shaker-cup-shaker-cup-g-fuel-gamer-drink-387615.png?v=1713971864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Shaker Cup<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-contrast="auto">“Go beyond! Plus … Ultra!” <span>Elevate your training regime with the exclusive 24 oz Stainless Steel <em>My Hero Academia</em> G FUEL Shaker Cup! Featuring iconic characters from the series, this shaker cup is designed to inspire greatness as you strive to unlock your inner hero. Whether you're gearing up for class at U.A. High School or mastering your skills elsewhere, this shaker cup is perfect for getting your energy fix on the go!</span></span></p>
+<ul>
+<li><span data-mce-fragment="1">Holds 24 oz (710 ml) of liquid</span></li>
+<li><span data-mce-fragment="1">HAND WASH ONLY</span></li>
+<li><span data-mce-fragment="1">Stainless Steel</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>anime</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>bottles</s:tag>
+    <s:tag>cups</s:tag>
+    <s:tag>max:11</s:tag>
+    <s:tag>my hero academia</s:tag>
+    <s:tag>officially licensed</s:tag>
+    <s:tag>quirk</s:tag>
+    <s:tag>shaker cups</s:tag>
+    <s:tag>shakercups</s:tag>
+    <s:tag>shakers</s:tag>
+    <s:tag>shakers cups</s:tag>
+    <s:tag>stainless steel</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6830265237579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>SC00037</s:sku>
+      <s:grams>366</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7058550325323</id>
+    <published>2024-05-03T15:00:00-04:00</published>
+    <updated>2024-05-03T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/my-hero-academia-collectible-lunch-box"/>
+    <title>My Hero Academia Collectible Lunch Box</title>
+    <s:type>Lunch Box</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/my-hero-academia-collectible-lunch-box-tub-collectors-box-g-fuel-gamer-drink-228422.png?v=1713974220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Lunch Box<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"></p>
+<p><span data-contrast="auto">“Go beyond! Plus … Ultra!” <span>Unleash your inner hero with the limited-edition full-art metal Collector’s Box inspired by the iconic anime My Hero Academia! This collector's item is adorned with fan-favorite heroes and villains from the series, making it a must-have for any fan. Whether you're headed to class at U.A. High School or perfecting your skills elsewhere, this lunch box will keep you ready for any adventure.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>anime</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>lunch box</s:tag>
+    <s:tag>MHA</s:tag>
+    <s:tag>my hero academia</s:tag>
+    <s:tag>officially licensed</s:tag>
+    <s:tag>quirk</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7058550325323</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>CB-EMPTY-MHA-A1</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/6998950019147</id>
+    <published>2024-05-03T12:00:00-04:00</published>
+    <updated>2024-05-03T12:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/energy-protein"/>
+    <title>G FUEL Energy + Protein</title>
+    <s:type>Protein</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/g-fuel-energy-protein-protein-g-fuel-gamer-drink-863817.png?v=1714754165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Protein<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">G FUEL</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">’s signature Energy Formula fuses with the metabolism-boosting power of protein to bring you G FUEL Energy + Protein! With </span><span class="NormalTextRun AdvancedProofingIssueV2Themed SCXW221717835 BCX0" data-mce-fragment="1">140 mg</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1"> of caffeine and 15 g of whey protein per serving, </span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">this 2-in-1 formula</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1"> from the </span><span class="NormalTextRun CommentStart SCXW221717835 BCX0" data-mce-fragment="1">G FUEL Innovation Lab</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">s</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1"> </span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">has </span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">got</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1"> your back no matter </span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">what’s</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1"> in store for your day.</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1"> Rough morning? Meeting-packed afternoon? Grueling all-nighter</span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">? Just shake up </span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">a scoop of </span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">zero-sugar </span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">G FUEL Energy + Protein </span><span class="NormalTextRun SCXW221717835 BCX0" data-mce-fragment="1">to experience the benefits of this one-two punch in a pouch!</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>coffee</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>energy protein</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>vanilla</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6998950019147</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>PRT-CHO1</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6998950019147</id>
+      <title>Cafe Mocha</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>PRT-CFM1</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gfuel.com/products/6998950019147</id>
+      <title>French Vanilla Latte</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>PRT-FVL1</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7036979249227</id>
+    <published>2024-05-01T12:00:00-04:00</published>
+    <updated>2024-05-01T12:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/snow-cone-reanimated"/>
+    <title>Snow Cone Reanimated</title>
+    <s:type>Tub</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/snow-cone-reanimated-tub-g-fuel-gamer-drink-704162.png?v=1714071592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Tub<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-contrast="auto" lang="EN-US" class="TextRun SCXW167452461 BCX0" xml:lang="EN-US"><span class="NormalTextRun SCXW167452461 BCX0">A delicious summertime treat gets a frosty </span><span class="NormalTextRun SCXW167452461 BCX0">new look</span><span class="NormalTextRun SCXW167452461 BCX0"> befitting any anime adventure! On the all-new G FUEL Snow Cone Reanimated Tub artwork, the </span><span class="NormalTextRun SCXW167452461 BCX0">fearless</span><span class="NormalTextRun SCXW167452461 BCX0"> Yuki is ready to brave any temperature with you as you</span><span class="NormalTextRun SCXW167452461 BCX0">r next cold conquest awaits!</span></span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>anime</s:tag>
+    <s:tag>badge:NEW</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7036979249227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>GTB-SN1-V2</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/7076167221323</id>
+    <published>2024-04-29T13:29:29-04:00</published>
+    <updated>2024-04-29T13:29:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/miami-nights-collectors-box-1"/>
+    <title>Miami Nights Collector&apos;s Box</title>
+    <s:type>Tub (Collectors Box)</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/miami-nights-collectors-box-hidden-product-g-fuel-gamer-drink-879028.png?v=1714428490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Tub (Collectors Box)<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">You may not be undercover fighting the underbelly of Miami, but that's no excuse to not look as cool as a white Ferrari rolling down Ocean Drive! So grab your G FUEL v-neck, freshly dry cleaned white blazer, Wayfarers, and this brand new G FUEL Miami Nights Collector’s Box! The new metallic blue and pink South Beach Shaker will make you feel like you’re living in the 80s. Mixed with the taste of the famous Miami Vice — a perfect, juicy mix of strawberry, coconut, and pineapple that's cooler than cool...it’s ice cold. </span><br></p>
+<h5>Includes:</h5>
+<p><meta charset="utf-8"><strong>✔ Box Includes (1)<span style="color: #000000;"> "Miami Nights<span color="#ff8000" data-mce-style="color: #ff8000;">" G FUEL Tub</span></span></strong><br><strong>✔ Box Includes (1) "South Beach" 16 oz Shaker Cup</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>collectors box</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>fruity</s:tag>
+    <s:tag>low stock</s:tag>
+    <s:tag>miami nights</s:tag>
+    <s:tag>pina colada</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/7076167221323</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>CB-MN1</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/6960388014155</id>
+    <published>2024-04-26T15:00:00-04:00</published>
+    <updated>2024-04-26T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/simian-surge"/>
+    <title>Simian Surge</title>
+    <s:type>Tub</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/simian-surge-tub-g-fuel-gamer-drink-784168.png?v=1712353534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Tub<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-contrast="auto">The hunt is on, and no one can stop the reign. In 20</span><span data-contrast="auto">th</span><span data-contrast="auto"> Century Studios’ </span><i><span data-contrast="auto">Kingdom of the Planet of the Apes</span></i><span data-contrast="auto">, humans need new ape allies to escape the clutches of the oppressive King Proximus – along with energy, focus, and endurance to emerge from the shadows and fight back! This battle to decide the future of apes and humans alike inspired G FUEL Simian Surge, a delicious, zero-sugar fruit punch combination of flavors that are even stronger together!  </span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":278}'> </span></p>
+<p><i><span data-contrast="auto">Kingdom of the Planet of the Apes </span></i><span data-contrast="auto">arrives exclusively in movie theaters May 10.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>badge:PRE-ORDER</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruit punch</s:tag>
+    <s:tag>fruity</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>officially licensed</s:tag>
+    <s:tag>planet of the apes</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6960388014155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>GTB-POA-A1</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gfuel.com/products/6830265270347</id>
+    <published>2024-04-24T12:00:27-04:00</published>
+    <updated>2024-04-24T12:00:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://gfuel.com/products/my-hero-academia-quirk-energy-tub"/>
+    <title>Quirk</title>
+    <s:type>Tub</s:type>
+    <s:vendor>G FUEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0223/3113/files/quirk-tub-g-fuel-gamer-drink-716914.png?v=1704513040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>G FUEL<br>
+        <strong>Type: </strong>Tub<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-contrast="auto" lang="EN-US" class="TextRun SCXW145366498 BCX0" data-mce-fragment="1" xml:lang="EN-US"><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">“Go beyond! Plus … Ultra!” Strive for greatness like</span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1"> </span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">Deku, Uravity, Shoto, and the rest of the heroes from the iconic anime </span></span><span data-contrast="auto" lang="EN-US" class="TextRun SCXW145366498 BCX0" data-mce-fragment="1" xml:lang="EN-US"><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">My Hero Academia</span></span><span data-contrast="auto" lang="EN-US" class="TextRun SCXW145366498 BCX0" data-mce-fragment="1" xml:lang="EN-US"><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1"> with G FUEL Quirk</span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">! Inspired by the trait that gives the series’ heroes and villains their unbelievable superpowers, </span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">zero-sugar </span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">G FUEL Quirk is a super-charged Blueberry Lemon Matcha combination formulated to help you unlock your innermost potential and become who you were always meant to be! </span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">Discover your Quirk and get energized and focused for your most superhuman tasks</span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">, whether it’s acing your </span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">Hero Academy exams or ta</span><span class="NormalTextRun SCXW145366498 BCX0" data-mce-fragment="1">ckling the “Hero Work” in your own life! </span></span><span class="EOP SCXW145366498 BCX0" data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}' data-mce-fragment="1"> </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20 off</s:tag>
+    <s:tag>anime</s:tag>
+    <s:tag>apr 24 bogo50</s:tag>
+    <s:tag>disable quick add</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy formula</s:tag>
+    <s:tag>my hero academia</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://gfuel.com/products/6830265270347</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>GTB-MHA-A1</s:sku>
+      <s:grams>372</s:grams>
+    </s:variant>
+  </entry>
+</feed>
