@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:g="http://base.google.com/ns/1.0">
+  <title>Example - technologies Store</title>
+  <link rel="self" href="http://www.example.com"/>
+  <entry>
+    <g:id>oHRHaYvXWFueIUm</g:id>
+    <g:title>Incredible Steel Bacon</g:title>
+    <g:description>Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes &amp; sandals</g:description>
+    <g:link>https://www.google.com/search?q=Incredible+Steel+Bacon</g:link>
+    <g:image_link>https://picsum.photos/seed/BqpMo04yq/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>253.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>6P2amzcii3pG0fW</g:id>
+    <g:title>Generic Soft Keyboard</g:title>
+    <g:description>The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J</g:description>
+    <g:link>https://www.google.com/search?q=Generic+Soft+Keyboard</g:link>
+    <g:image_link>https://picsum.photos/seed/Ql8LIfoz/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>509.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>MEpbgYpblj1by0F</g:id>
+    <g:title>Fantastic Steel Gloves</g:title>
+    <g:description>The slim &amp; simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality</g:description>
+    <g:link>https://www.google.com/search?q=Fantastic+Steel+Gloves</g:link>
+    <g:image_link>https://picsum.photos/seed/rielWhjCoy/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>261.00 USD</g:price>
+  </entry>
+</feed>
