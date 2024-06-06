@@ -32,4 +32,24 @@
     <g:availability>out of stock</g:availability>
     <g:price>261.00 USD</g:price>
   </entry>
+  <entry>
+    <g:id>gGEeuSrUjQmvX7C</g:id>
+    <g:title>Unbranded Fresh Gloves</g:title>
+    <g:description>The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients</g:description>
+    <g:link>https://www.google.com/search?q=Unbranded+Fresh+Gloves</g:link>
+    <g:image_link>https://picsum.photos/seed/q1jCz/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>651.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>QiO6NINYAXFfyMk</g:id>
+    <g:title>Tasty Cotton Chips</g:title>
+    <g:description>Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles</g:description>
+    <g:link>https://www.google.com/search?q=Tasty+Cotton+Chips</g:link>
+    <g:image_link>https://picsum.photos/seed/qynVMVv/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>214.00 USD</g:price>
+  </entry>
 </feed>
