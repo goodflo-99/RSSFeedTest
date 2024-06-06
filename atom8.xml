@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:g="http://base.google.com/ns/1.0">
+  <title>Example - users Store</title>
+  <link rel="self" href="http://www.example.com"/>
+  <entry>
+    <g:id>Ove7snUh1FRq8Ye</g:id>
+    <g:title>Awesome Cotton Computer</g:title>
+    <g:description>Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes &amp; sandals</g:description>
+    <g:link>https://www.google.com/search?q=Awesome+Cotton+Computer</g:link>
+    <g:image_link>https://picsum.photos/seed/VJky2Xz0Qc/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>764.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>mXe3f0apshnPAOA</g:id>
+    <g:title>Unbranded Cotton Salad</g:title>
+    <g:description>New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A &amp; J 2016</g:description>
+    <g:link>https://www.google.com/search?q=Unbranded+Cotton+Salad</g:link>
+    <g:image_link>https://picsum.photos/seed/6LSIFs1h/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>764.00 USD</g:price>
+  </entry>
+</feed>
