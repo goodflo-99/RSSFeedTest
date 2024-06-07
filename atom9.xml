@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:g="http://base.google.com/ns/1.0">
+  <title>Example - systems Store</title>
+  <link rel="self" href="http://www.example.com"/>
+  <entry>
+    <g:id>5f1INbbHO8909Lp</g:id>
+    <g:title>Refined Steel Bacon</g:title>
+    <g:description>Carbonite web goalkeeper gloves are ergonomically designed to give easy fit</g:description>
+    <g:link>https://www.google.com/search?q=Refined+Steel+Bacon</g:link>
+    <g:image_link>https://picsum.photos/seed/n5Lof/640/480</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>849.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>vYCMGbHgePPbvqH</g:id>
+    <g:title>Recycled Metal Car</g:title>
+    <g:description>The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients</g:description>
+    <g:link>https://www.google.com/search?q=Recycled+Metal+Car</g:link>
+    <g:image_link>https://picsum.photos/seed/DcgsaSNYk/640/480</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>3.00 USD</g:price>
+  </entry>
+</feed>
