@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:g="http://base.google.com/ns/1.0">
+  <title>Example - niches Store</title>
+  <link rel="self" href="http://www.example.com"/>
+  <entry>
+    <g:id>JDa8EJumWW0HGiU</g:id>
+    <g:title>Green bottle on white table (vertical)</g:title>
+    <g:description>Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes &amp; sandals</g:description>
+    <g:link>https://unsplash.com/photos/green-bottle-on-white-table-reEySFadyJQ</g:link>
+    <g:image_link>https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>154.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>bWbYXvPNShRKp1q</g:id>
+    <g:title>Gray Amazon Echo portable speaker (vertical)</g:title>
+    <g:description>The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients</g:description>
+    <g:link>https://unsplash.com/photos/gray-amazon-echo-portable-speaker-n_wXNttWVGs</g:link>
+    <g:image_link>https://images.unsplash.com/photo-1543512214-318c7553f230?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</g:image_link>
+    <g:condition>used</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>107.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>QIFUJpeKoCX5hl6</g:id>
+    <g:title>A bottle of perfume on a pink background (vertical)</g:title>
+    <g:description>The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive</g:description>
+    <g:link>https://unsplash.com/photos/a-bottle-of-perfume-on-a-pink-background-JIZvOtNHQWY</g:link>
+    <g:image_link>https://plus.unsplash.com/premium_photo-1675812488919-21fc8fae565b?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>543.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>iuGxh2ZOAUY6cGh</g:id>
+    <g:title>Black road bike (horizontal)</g:title>
+    <g:description>The Football Is Good For Training And Recreational Purposes</g:description>
+    <g:link>https://unsplash.com/photos/black-road-bike-yjAFnkLtKY0</g:link>
+    <g:image_link>https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?q=80&w=2022&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>out of stock</g:availability>
+    <g:price>22.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>c7Gauj2XQ6IYwKD</g:id>
+    <g:title>A white T-shirt hanging on a wall next to a plant (horizontal)</g:title>
+    <g:description>The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients</g:description>
+    <g:link>https://unsplash.com/photos/a-white-t-shirt-hanging-on-a-wall-next-to-a-plant-3fXs48dBpH4</g:link>
+    <g:image_link>https://plus.unsplash.com/premium_photo-1718913936342-eaafff98834b?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>159.00 USD</g:price>
+  </entry>
+  <entry>
+    <g:id>c7Gauj2XQ6IYwKD</g:id>
+    <g:title>Black camera, round silver-colored analog watch, black Swiss Gear pocketknife, and black flashlight (horizontal)</g:title>
+    <g:description>The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients</g:description>
+    <g:link>https://unsplash.com/photos/black-camera-round-silver-colored-analog-watch-black-swiss-gear-pocketknife-and-black-flashlight-BX4Q0gojWAs</g:link>
+    <g:image_link>https://images.unsplash.com/photo-1513116476489-7635e79feb27?q=80&w=1993&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>399.00 USD</g:price>
+  </entry>
+</feed>
